@@ -3,6 +3,8 @@
     <body>
         <head>
 
+            <link rel="stylesheet" href="CSS.css">
+
             <title>Aaron's Portfolo!</title>
 
             <link rel="preconnect" href="https://fonts.googleapis.com">
