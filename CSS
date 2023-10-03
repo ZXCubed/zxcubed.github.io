@@ -1,0 +1,9 @@
+html {
+    font-family: 'Onest', sans-serif;
+    background: linear-gradient(to bottom right, #f5ffe5, #b8f5a6);
+}
+
+p{
+    font-family: 'Onest';
+    font-size: large;
+}
