@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'BIOS';
+    src: url("./ndsbios.ttf");
+}
+
+html {
+
+    background-image: url("./images/background/dsbg.png");
+    background-size: 220px auto;
+    background-position: center 4px;
+
+    image-rendering: pixelated;
+
+}
+
+html, body {
+
+    font-family: 'BIOS';
+    font-size: 24px;
+
+    margin: 0;
+    padding: 0;
+
+    width: 100vw;
+
+}
+
+header {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-image: url("./images/background/tb/purpolT.png");
+    background-size: contain;
+
+    border-bottom: 2px black solid;
+
+}
+
+header > div {
+
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+    gap: 4px;
+    padding: 0 16px;
+
+}
